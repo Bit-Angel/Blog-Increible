@@ -2,11 +2,18 @@ body{
     text-align: center;
     background-color: blueviolet;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
 }
 
-h1{
-    color: aquamarine;
+.container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 3px solid gray;
+    margin: 0 auto;
 }
-p{
-    color: azure;
+.container h1{
+    font-size: 70px;
 }
