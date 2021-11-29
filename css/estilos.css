@@ -35,3 +35,7 @@ img{
     width: 40px;
     float: left;
 }
+footer div{
+    margin-top: 280px;
+    background-color: aqua;
+}
